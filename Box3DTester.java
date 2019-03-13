@@ -1,4 +1,4 @@
-public class MyTester {
+public class Box3DTester {
 
 	public static void main(String[] args) {
         Point3D p1 = new Point3D(1, 0, 0);
