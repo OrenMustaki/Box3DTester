@@ -58,9 +58,3 @@ public class MyTester {
         	System.out.printf("contains : b2 should not contain b1\n", b2.contains(b1));
         else
         	System.out.println("Success");
-
-
-
-	}
-
-}
